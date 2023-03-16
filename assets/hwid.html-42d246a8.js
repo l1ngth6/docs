@@ -1,0 +1,1 @@
+import{_ as t,W as s,X as _,$ as e}from"./framework-3bdc494a.js";const o={},c=e("p",null,"登录官网，点击右侧“reset hwid”按钮即可。",-1),n=e("p",null,"每48小时可以重置一次。",-1),l=[c,n];function r(a,d){return s(),_("div",null,l)}const h=t(o,[["render",r],["__file","hwid.html.vue"]]);export{h as default};

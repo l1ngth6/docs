@@ -1,0 +1,1 @@
+import{_ as n,W as t,X as s,$ as e}from"./framework-3bdc494a.js";const o={},_=e("p",null,"在菜单中依次选择Settings-Translation-English或Chinese",-1),a=e("p",null,"然后返回查看效果即可",-1),c=[_,a];function l(r,h){return t(),s("div",null,c)}const u=n(o,[["render",l],["__file","hanhua.html.vue"]]);export{u as default};

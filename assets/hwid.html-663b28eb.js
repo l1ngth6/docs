@@ -1,0 +1,1 @@
+import{_ as t,W as _,X as o,$ as e}from"./framework-3bdc494a.js";const s={},c=e("p",null,"VN绑定电脑，解绑冷却时间7天，购买解绑码（5元）可立即解绑一次。",-1),n=e("p",null,"菜单注入后如果检测到hwid更改会提示解绑。",-1),l=[c,n];function r(a,d){return _(),o("div",null,l)}const h=t(s,[["render",r],["__file","hwid.html.vue"]]);export{h as default};
