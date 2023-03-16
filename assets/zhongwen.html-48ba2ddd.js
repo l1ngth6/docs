@@ -1,0 +1,1 @@
+import{_ as e,W as n,X as t,$ as o}from"./framework-3bdc494a.js";const s={},_=o("p",null,"菜单内依次选择：settings - language 按小键盘4/6切换至中文即可。",-1),c=[_];function a(l,r){return n(),t("div",null,c)}const d=e(s,[["render",a],["__file","zhongwen.html.vue"]]);export{d as default};
